@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Nodejs, Kubernetes, Docker.<br>👯 I’m looking to collaborate on Kubernetes.<br>🤝 I’m looking for help with Typescript.<br>🌱 I’m currently learning Typescript,Go.<br>💬 Ask me about Nodejs, Kubernetes, Docker.<br>⚡ Fun fact There is a javaScript FrameWork called Mocha.js.
+🔭 I’m currently working on Transformers, Diffusion Models, Generative AI.<br>👯 I’m looking to collaborate on CERN-HSF.<br>🤝 I’m looking for help with Compiler Research.<br>🌱 I’m currently learning Diffusion Models,Pytorch.<br>💬 Ask me about Generative AI and Theoretical Physics.<br>⚡ Fun fact There is a javaScript FrameWork called Mocha.js.
 
 
 # 💻 Tech Stack:
